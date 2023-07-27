@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hardikgupta2003
 - 👀 I’m interested in web development,android development and AI/ML
-- 🌱 I’m currently learning C++ and java
+- 🌱 I’m currently learning Full stack web development.
 - 💞️ I’m looking to collaborate on internship which helps me to acquire some valuable knowlegde. 
 - 📫 How to reach me ...linkedin profile :- www.linkedin.com/in/hardik-gupta-7baa72220
 
