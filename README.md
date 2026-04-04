@@ -26,11 +26,15 @@
 
 ### 👨‍💻 Programming Languages
 
-Java • C++ • Python • JavaScript • SQL
+Java • Kotlin • C++ • Python • JavaScript • SQL
 
 ### ⚙️ Backend Development
 
 Spring Boot • Hibernate / JPA • Node.js • Express.js • REST APIs • GraphQL • Microservices
+
+### ⚙️ Android Development
+
+Android, Kotlin, Jetpack Compose, Ktor, Apollo, Room.
 
 ### 🗄 Databases
 
