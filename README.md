@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 * 💻 Software Engineer at **Digivalet**
-* ⚙️ Backend Developer specializing in **Java, Spring Boot, Node.js**
+* ⚙️ Specializing in **Java, Android, Spring Boot, Node.js**
 * 🏗️ Experience building **scalable backend systems, REST APIs, GraphQL APIs and microservices**
 * 🗄️ Worked with **PostgreSQL, MongoDB, Redis**
 * 🧠 Interested in **Artificial Intelligence, Machine Learning, NLP and Generative AI**
