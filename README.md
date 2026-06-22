@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardik Gupta</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Android Developer at Cricbuzz | Kotlin | Jetpack Compose | KMP | Building scalable mobile experiences</h3>
 
 <p align="center">
   <a href="https://github.com/hardikgupta2003">
