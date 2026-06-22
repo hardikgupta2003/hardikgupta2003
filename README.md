@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-* 💻 Software Engineer at **Digivalet**
+* 💻 Software Engineer at **Cricbuzz**
 * ⚙️ Specializing in **Java, Android, Spring Boot, Node.js**
 * 🏗️ Experience building **scalable backend systems, REST APIs, GraphQL APIs and microservices**
 * 🗄️ Worked with **PostgreSQL, MongoDB, Redis**
